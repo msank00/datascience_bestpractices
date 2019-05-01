@@ -1,4 +1,4 @@
-# Techinical Mistakes while MOdel Building
+# Techinical Mistakes while Model Building
 
 - Create a `non-reproducible` data preparation steps
 - Evaluate a model based on performance of training set
